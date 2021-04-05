@@ -27,9 +27,8 @@ class Test
         //DB에서 성공적으로 값을 가져온 경우
         if (messageCode == 1000)
         {
-
-            //userMoney라는 변수에 db로부터 받아온 사용자의 돈이 저장됨
-            int userMoney = (int)jObject["result"][0]["userMoney"];
+            //userMoney라는 변수에 db로부터 받아온 사용자의 돈이 저장됨 , (돈은 음수값이 없기 때문에 자료형은 unsigned int)
+            uint userMoney = (uint)jObject["result"][0]["userMoney"];
 
             //사용자의 현재 돈 출력
             Console.WriteLine(userMoney);
