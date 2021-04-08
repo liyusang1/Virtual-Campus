@@ -9,9 +9,9 @@ class Test
 {
     static void Main(string[] args)
     {
-        int communityNumber = 1;
+        int communityNumber = 2;
 
-        var client = new RestClient("https://liyusang1.site/community/"+communityNumber);
+        var client = new RestClient("https://liyusang1.site/community/" + communityNumber);
         client.Timeout = -1;
         var request = new RestRequest(Method.GET);
 
@@ -33,9 +33,7 @@ class Test
         Console.WriteLine(createdAt);
         Console.WriteLine("\n");
 
-        int i = 0;
-
-        while (jObject["result"]["reply"].First != null)
+        for (int i = 0; i < replyCount; i++)
         {
             int replyId = (int)jObject["result"]["reply"][i]["replyId"];
             string replyUserNickname = jObject["result"]["reply"][i]["userNickname"].ToString();
@@ -47,22 +45,6 @@ class Test
             Console.WriteLine(replyContent);
             Console.WriteLine(replyCreatedAt);
             Console.WriteLine("\n");
-
-            i++;
-
-            if (jObject["result"]["reply"][i].Next == null)
-            {
-               replyId = (int)jObject["result"]["reply"][i]["replyId"];
-               replyUserNickname = jObject["result"]["reply"][i]["userNickname"].ToString();
-               replyContent = jObject["result"]["reply"][i]["content"].ToString();
-               replyCreatedAt = jObject["result"]["reply"][i]["createdAt"].ToString();
-
-                Console.WriteLine(replyId);
-                Console.WriteLine(replyUserNickname);
-                Console.WriteLine(replyContent);
-                Console.WriteLine(replyCreatedAt);
-                break;
-            }
         }
     }
 }
