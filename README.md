@@ -1,6 +1,6 @@
 # Virtual Campus Project C# Script code
 
-### 2021년 1학기 참빛설계학기 Virtual Campus Project에 사용되는 C# Script code 저장소입니다.
+### 🛠 2021년 1학기 참빛설계학기 Virtual Campus Project에 사용되는 C# Script code 저장소입니다.
 
 ---
 
