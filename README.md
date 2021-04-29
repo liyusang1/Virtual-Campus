@@ -8,14 +8,13 @@
 
 
 ## :game_die: Virtual Campus 소개
+
+![깃](https://user-images.githubusercontent.com/65541248/116594491-3b7c8100-a95d-11eb-9261-03bfd4ad1e93.gif)
+
+![ezgif-7-0cbd4500223d](https://user-images.githubusercontent.com/65541248/116594514-420af880-a95d-11eb-952c-3894377af795.gif)
+
+
 ### 광운대학교 캠퍼스를 배경으로 하는 온택트 멀티 모바일 게임 Virtual Campus    
-
-![깃](https://user-images.githubusercontent.com/65541248/116594081-cc9f2800-a95c-11eb-9a56-b06de9b03789.gif)
-
-![playing2](https://user-images.githubusercontent.com/65541248/116593752-65817380-a95c-11eb-826e-ef4a0799c4bd.gif)
-
-![playing3](../Virtual-Campus/image/playing2.gif)
-
 
 
 ## 🛠 Stacks
