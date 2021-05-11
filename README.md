@@ -16,7 +16,6 @@
 
 ### 광운대학교 캠퍼스를 배경으로 하는 온택트 멀티 모바일 게임 Virtual Campus    
 
-
 ## 🛠 Stacks
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/virtualcampus%20stacks%20upload%20.jpg?alt=media&token=a501e69d-482d-4a20-8cd4-525ecbcbbb99" >
