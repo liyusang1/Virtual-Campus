@@ -14,7 +14,7 @@ class Test
         var client = new RestClient("https://liyusang1.site/user-customizing");
         client.Timeout = -1;
         var request = new RestRequest(Method.GET);
-        request.AddHeader("x-access-token", "token");
+        request.AddHeader("x-access-token", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInVzZXJOaWNrbmFtZSI6Iu2FjOyKpO2KuCIsImlhdCI6MTYxNjg2NjQ3NiwiZXhwIjoxNjQ4NDAyNDc2LCJzdWIiOiJ1c2VySW5mbyJ9.6U7rtn4F2Do_eBqJILH_Axr_CY9Q7_V2h-UxVMllQw8");
         IRestResponse response = client.Execute(request);
 
         var jObject = JObject.Parse(response.Content);
