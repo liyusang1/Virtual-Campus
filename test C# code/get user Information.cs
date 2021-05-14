@@ -14,7 +14,7 @@ class Test
         var request = new RestRequest(Method.GET);
         
         //이자리에 토큰을 넣어야함
-        request.AddHeader("x-access-token", "토큰넣는곳");
+        request.AddHeader("x-access-token", "token");
 
         IRestResponse response = client.Execute(request);
     
