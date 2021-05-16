@@ -18,5 +18,5 @@
 
 ## 🛠 Stacks
 
-<img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/virtualcampus%20stacks%20upload%20.jpg?alt=media&token=a501e69d-482d-4a20-8cd4-525ecbcbbb99" >
+<img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/virtualcampus%20stacks.jpg?alt=media&token=7a8c9fbd-2f5d-4b31-ad54-3a1286d9694c" >
 
