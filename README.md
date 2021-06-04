@@ -28,15 +28,17 @@
 
 ## :camera: Play image
 
-<img src=image/1.jpg width="400"><img src=image/2.jpg width="400" >
+<img src=image/1.jpg width="400"> <img src=image/2.jpg width="400" >
 
-<img src=image/3.jpg width="400"><img src=image/4.jpg width="400" >
+<img src=image/3.jpg width="400"> <img src=image/4.jpg width="400" >
 
-<img src=image/5.jpg width="400"><img src=image/7.jpg width="400" >
+<img src=image/5.jpg width="400"> <img src=image/7.jpg width="400" >
 
-<img src=image/8.jpg width="400"><img src=image/9.jpg width="400" >
+<img src=image/8.jpg width="400"> <img src=image/9.jpg width="400" >
 
-<img src=image/6.jpg width="800" >
+<img src=image/6.jpg width="800">
+
+>Photon을 활용한 실시간 채팅 및 멀티플레이 환경
 
 ---
 
