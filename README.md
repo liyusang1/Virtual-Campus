@@ -9,7 +9,7 @@
 
 ## :game_die: Virtual Campus 소개
 
-![깃](https://user-images.githubusercontent.com/65541248/116594491-3b7c8100-a95d-11eb-9261-03bfd4ad1e93.gif)
+![10mb이하](https://user-images.githubusercontent.com/65541248/120845616-07bff700-c5ac-11eb-9043-652070f8d9da.gif)
 
 ![ezgif-7-0cbd4500223d](https://user-images.githubusercontent.com/65541248/116594514-420af880-a95d-11eb-952c-3894377af795.gif)
 
