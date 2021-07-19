@@ -46,3 +46,11 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/mangoplate-a1a46.appspot.com/o/virtualcampus%20stacks.jpg?alt=media&token=7a8c9fbd-2f5d-4b31-ad54-3a1286d9694c" >
 
+---
+
+## 📝 Record
+
+* 🏆 광운대학교 대학혁신사업단 참빛설계학기 장려상 (2021.06.11)
+
+
+
